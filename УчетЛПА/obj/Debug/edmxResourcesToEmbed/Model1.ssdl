@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище ДипломModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Администраторы">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Никнейм" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Пароль" Type="nvarchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ЛПА">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Наимемнование" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="Дата_введения" Type="date" Nullable="false" />
+    <Property Name="Дата_обновления" Type="date" Nullable="false" />
+    <Property Name="Срок_контроля" Type="date" Nullable="false" />
+    <Property Name="id_отдела" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ознакомление">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Дата_время" Type="datetime2" Precision="7" />
+    <Property Name="id_сотрудника" Type="int" Nullable="false" />
+    <Property Name="id_ЛПА" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Отдел">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Название_отдела" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Сотрудники">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Никнейм" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Пароль" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="Почта" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_отдела" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__ЛПА__id_отдела__3F466844">
+    <End Role="Отдел" Type="Self.Отдел" Multiplicity="1" />
+    <End Role="ЛПА" Type="Self.ЛПА" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Отдел">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ЛПА">
+        <PropertyRef Name="id_отдела" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ознакомле__id_ЛП__4316F928">
+    <End Role="ЛПА" Type="Self.ЛПА" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Ознакомление" Type="Self.Ознакомление" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ЛПА">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Ознакомление">
+        <PropertyRef Name="id_ЛПА" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ознакомле__id_со__4222D4EF">
+    <End Role="Сотрудники" Type="Self.Сотрудники" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Ознакомление" Type="Self.Ознакомление" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Сотрудники">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Ознакомление">
+        <PropertyRef Name="id_сотрудника" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Сотрудник__id_от__3C69FB99">
+    <End Role="Отдел" Type="Self.Отдел" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Сотрудники" Type="Self.Сотрудники" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Отдел">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Сотрудники">
+        <PropertyRef Name="id_отдела" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="Хранилище ДипломModelContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Администраторы" EntityType="Self.Администраторы" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ЛПА" EntityType="Self.ЛПА" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ознакомление" EntityType="Self.Ознакомление" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Отдел" EntityType="Self.Отдел" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Сотрудники" EntityType="Self.Сотрудники" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__ЛПА__id_отдела__3F466844" Association="Self.FK__ЛПА__id_отдела__3F466844">
+      <End Role="Отдел" EntitySet="Отдел" />
+      <End Role="ЛПА" EntitySet="ЛПА" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ознакомле__id_ЛП__4316F928" Association="Self.FK__Ознакомле__id_ЛП__4316F928">
+      <End Role="ЛПА" EntitySet="ЛПА" />
+      <End Role="Ознакомление" EntitySet="Ознакомление" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ознакомле__id_со__4222D4EF" Association="Self.FK__Ознакомле__id_со__4222D4EF">
+      <End Role="Сотрудники" EntitySet="Сотрудники" />
+      <End Role="Ознакомление" EntitySet="Ознакомление" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Сотрудник__id_от__3C69FB99" Association="Self.FK__Сотрудник__id_от__3C69FB99">
+      <End Role="Отдел" EntitySet="Отдел" />
+      <End Role="Сотрудники" EntitySet="Сотрудники" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

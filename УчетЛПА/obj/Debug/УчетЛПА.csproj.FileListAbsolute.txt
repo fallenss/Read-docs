@@ -1,0 +1,388 @@
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\УчетЛПА.exe.config
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\УчетЛПА.exe
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\УчетЛПА.pdb
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.SqlServer.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EPPlus.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignColors.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\System.ComponentModel.Annotations.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EnvDTE.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\stdole.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.MSXML.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.xml
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.SqlServer.xml
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EPPlus.xml
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignColors.pdb
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csprojAssemblyReference.cache
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\AdminPanel.g.cs
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\MainWindow.g.cs
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\Вход.g.cs
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\App.g.cs
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА_Content.g.cs
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.cache
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.lref
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\App.baml
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\AdminPanel.baml
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\MainWindow.baml
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\Вход.baml
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.g.resources
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.Properties.Resources.resources
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.Report.resources
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.Report1.resources
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.GenerateResource.cache
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.CoreCompileInputs.cache
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.CopyComplete
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.exe
+F:\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.pdb
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.AssemblyReference.cache
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\AdminPanel.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\MainWindow.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\Вход.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\App.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА_Content.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.cache
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.lref
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.exe
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.pdb
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\УчетЛПА.exe.config
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\УчетЛПА.exe
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\УчетЛПА.pdb
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EPPlus.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignColors.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EnvDTE.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\stdole.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.xml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\EPPlus.xml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\App.baml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\AdminPanel.baml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\MainWindow.baml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\Вход.baml
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.g.resources
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.Properties.Resources.resources
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.Report.resources
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.Report1.resources
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.GenerateResource.cache
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\RdlCompile.cache
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\RdlCompile.compiled
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.CoreCompileInputs.cache
+C:\Users\SYNOD\OneDrive\ДП\Проект\УчетЛПА\obj\Debug\УчетЛПА.csproj.CopyComplete
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.exe.config
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.exe
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.pdb
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.SqlServer.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EPPlus.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignColors.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\System.ComponentModel.Annotations.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EnvDTE.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\stdole.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.MSXML.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.xml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.SqlServer.xml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EPPlus.xml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignColors.pdb
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csprojAssemblyReference.cache
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\AdminPanel.g.cs
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\MainWindow.g.cs
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\Вход.g.cs
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\App.g.cs
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА_Content.g.cs
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.cache
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.lref
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\App.baml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\AdminPanel.baml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\MainWindow.baml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\Вход.baml
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.g.resources
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.Properties.Resources.resources
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.Report.resources
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.Report1.resources
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.GenerateResource.cache
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.CoreCompileInputs.cache
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.CopyComplete
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.exe
+F:\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.pdb
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.exe.config
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.exe
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.pdb
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EPPlus.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignColors.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EnvDTE.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\stdole.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.xml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\EPPlus.xml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\AdminPanel.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\MainWindow.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\Вход.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\App.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА_Content.g.cs
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.cache
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА_MarkupCompile.lref
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\App.baml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\AdminPanel.baml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\MainWindow.baml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\Вход.baml
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.g.resources
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.Properties.Resources.resources
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.GenerateResource.cache
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.CoreCompileInputs.cache
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.CopyComplete
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.exe
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.pdb
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.exe.manifest
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.exe.manifest
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\bin\Debug\УчетЛПА.application
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.application
+C:\Users\SYNOD\OneDrive\ДП\Учет ЛПА\УчетЛПА\obj\Debug\УчетЛПА.csproj.AssemblyReference.cache

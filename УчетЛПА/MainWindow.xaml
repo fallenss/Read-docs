@@ -1,0 +1,150 @@
+﻿<Window x:Class="УчетЛПА.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:УчетЛПА"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Каталог" Height="1900" Width="1920" ResizeMode="NoResize" WindowState="Maximized" WindowStartupLocation="CenterScreen" >
+    <Window.Resources>
+        <Style x:Key="Button1_1" TargetType="{x:Type Button}">
+            <Setter Property="Background" >
+                <Setter.Value>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Orange" Offset="0"/>
+                        <GradientStop Color="Orangered" Offset="1"/>
+                    </RadialGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="SnapsToDevicePixels" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border CornerRadius="2" Background="{TemplateBinding Background}">
+                            <Border.Effect>
+                                <DropShadowEffect BlurRadius="150" Direction="0" Color="Black"/>
+                            </Border.Effect>
+                            <Grid>
+                                <Path x:Name="PathIcon" Width="15" 
+                                      Height="25" Stretch="Fill" Fill="#4C87B3" 
+                                      HorizontalAlignment="Left" Margin="0,0,0,0"/>
+                                <ContentPresenter x:Name="MyContentPresenter" Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0" />
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" >
+                                    <Setter.Value>
+                                        <RadialGradientBrush>
+                                            <GradientStop Color="OrangeRed" Offset="0"/>
+                                            <GradientStop Color="Orange" Offset="1"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="Foreground" Value="White"/>
+                                <Setter TargetName="PathIcon" Property="Fill" Value="#FFFDFDFD" />
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FFB2B2B2" />
+                                <Setter Property="Foreground" Value="White" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="170"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="170"/>
+            <ColumnDefinition Width="1600"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.RowSpan="2" Grid.ColumnSpan="3" >
+            <Image Source="pic/3.png" Height="700"/>
+        </Grid>
+        
+            <Grid Margin="0,380,0,0" Background="#000011"  Grid.ColumnSpan="3" Grid.RowSpan="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="170"/>
+                    <ColumnDefinition Width="1600"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <ListView x:Name="LViewLPA" Grid.Row="1"  Background="White" 
+                          SelectionMode="Single" SelectionChanged="LViewLPA_SelectionChanged"
+                          ScrollViewer.VerticalScrollBarVisibility="Hidden" 
+                          ScrollViewer.HorizontalScrollBarVisibility="Disabled" 
+                          HorizontalContentAlignment="Center"
+                          Grid.ColumnSpan="3">
+                    
+                    <ListView.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" ></WrapPanel>
+                            
+                        </ItemsPanelTemplate>
+                    </ListView.ItemsPanel>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="20" Width="350">
+                                <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"></RowDefinition>
+                                <RowDefinition Height="auto"></RowDefinition>
+                                    <RowDefinition Height="auto"></RowDefinition>
+                                    <!--<RowDefinition Height="auto"></RowDefinition>-->
+                                </Grid.RowDefinitions>
+                                <Image x:Name ="Lovushaka" Source="/pic/LPA.png" Grid.Row="1" Stretch="UniformToFill" HorizontalAlignment="Center" Margin="5" Width="301" Height="300"></Image>
+                                <TextBlock x:Name="aboba" Text="{Binding Наимемнование}"
+                                           VerticalAlignment="Center" 
+                                           TextAlignment="Center"  Width="350" Foreground="White"
+                                   TextWrapping="Wrap" HorizontalAlignment="Center" FontSize="20" Grid.Row="0"></TextBlock>
+                                <TextBlock Text="{Binding Дата_обновления,StringFormat={}Дата обновления: {0:d} г.}" Foreground="White" Grid.Row="2" Margin="5 5 5 15" HorizontalAlignment="Right" FontSize="22" FontWeight="Bold"></TextBlock>
+                                <TextBlock Text="{Binding Дата_введения,StringFormat={}Дата введения: {0:d} г.}" Foreground="White" Grid.Row="2" Margin="5 -22 5 15" HorizontalAlignment="Right" FontSize="24" FontWeight="Bold"></TextBlock>
+                                <TextBlock Text="{Binding Отдел.Название_отдела}" Foreground="White" Grid.Row="3" FontSize="14" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+                                </TextBlock>
+                                <!--<TextBlock Text="{Binding Описание}" TextWrapping="Wrap" Foreground="White" Grid.Row="4" FontSize="14" HorizontalAlignment="Left"></TextBlock>-->
+                            </Grid>
+                        </DataTemplate>
+                        
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Margin="30,40,30,40" Background="#99292929">
+            <TextBox Grid.Row="0" x:Name="Find" HorizontalAlignment="Left"
+                         Margin="20,20,0,0"  BorderBrush="Orangered"
+                         FontSize="35" Foreground="White" 
+                         materialDesign:HintAssist.Hint="Поиск по названию:" VerticalAlignment="Top"
+                         TextChanged="Find_TextChanged" GotFocus="Find_GotFocus" MouseDown="Find_MouseDown" Width="351"/>
+            <ComboBox Grid.Row="0" Width="350" Name="ComboTdel" Background="#7FFFFFFF" Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                  Foreground="Black" FontSize="24" GotFocus="ComboRating_GotFocus" Margin="1149,14,355,10" >
+                <TextBlock Text="Любой отдел" />
+                <TextBlock Text="Отдел Информационной Безопасности" />
+                <TextBlock Text="Департамент Информационных Технологий" />
+                <TextBlock Text="Юридический департамент" />
+                <TextBlock Text="Департамент корпоративного бизнеса" />
+                <TextBlock Text="Департамент розничного бизнеса" />
+                <TextBlock Text="Департамент рисков" />
+            </ComboBox>
+            <Button Grid.Row="0" x:Name="Back" Content="Выйти" Margin="0,0,30,0"
+                Width="120" Height="40" Foreground="#333333" HorizontalAlignment="Right" FontWeight="Bold"
+                Style="{StaticResource Button1_1}" Click="Back_Click"
+                />
+            <Button Grid.Row="0" x:Name="Spravka" Content="Справка" Margin="0,25,172,25"
+                Width="120" Height="40" Foreground="#333333" HorizontalAlignment="Right" FontWeight="Bold"
+                Style="{StaticResource Button1_1}" Click="Spravka_Click" 
+                />
+        </Grid>
+    </Grid>
+</Window>
